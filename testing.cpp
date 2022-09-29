@@ -6,4 +6,5 @@ using namespace std;
 int main(){
     cout<<"Hellooo!\n";
     cout<<"Testing on mac\n";
+    cout<<"Testing on mac\n";
 }
